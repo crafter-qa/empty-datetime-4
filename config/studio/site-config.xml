@@ -50,7 +50,7 @@
             Specifying a time zone (i.e. `timeZone` element) will express dates/times across the UI in the time zone you specify
             here. Leaving it unspecified, will display dates/times to each user in their own system time zone.
             -->
-            <!--<timeZone>EST5EDT</timeZone>-->
+            <timeZone>GMT</timeZone>
             <day>numeric</day>
             <month>numeric</month>
             <year>numeric</year>
